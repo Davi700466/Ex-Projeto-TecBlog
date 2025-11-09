@@ -25,7 +25,9 @@ O site possui:
 - Cabeçalho com logo e menu de navegação  
 - Área principal com postagens e imagens ilustrativas  
 - Barra lateral com posts recentes e categorias  
-- Rodapé com direitos reservados  
+- Rodapé com direitos reservados
+
+🔗 **Veja o site funcionando:** [TecBlog — GitHub Pages](https://davi700466.github.io/Ex-Projeto-TecBlog/)
 
 
 
